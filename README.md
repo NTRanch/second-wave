@@ -1,3 +1,5 @@
+> **Game page:** the full storefront page for this game lives at [docs/GAME-PAGE.md](docs/GAME-PAGE.md).
+
 # Second Wave
 
 **Nice Thoughts Ranch** · Torogao Jam Program week 12 (Wave C — Mini-games: the Crescendo set) · Prima · **C# / Unity**
