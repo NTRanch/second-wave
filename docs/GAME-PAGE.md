@@ -15,7 +15,7 @@ All characters depicted are adults.
 
 ## A continuation mini-game where you drive channels to a peak and choose whether to push past it once or stop and pay the cost.
 
-<p align="center"><a href="https://github.com/NTRanch/second-wave">GitHub</a> · <a href="https://github.com/NTRanch/second-wave/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a></p>
+<p align="center"><a href="https://github.com/NTRanch/second-wave">GitHub</a> · <a href="https://github.com/NTRanch/second-wave/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a> · <a href="https://github.com/NTRanch/second-wave/releases/tag/v1.0.0">Release</a></p>
 
 ![Second Wave header](../assets/brand/header.png)
 
